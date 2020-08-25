@@ -7,3 +7,14 @@ src/main/java/com/
 .project
 .classpath
 .settings
+*.swp
+*~
+cscope.*
+tags
+GTAGS
+GRTAGS
+GPATH
+.gradle
+*-attic
+.gradle
+*.bak
